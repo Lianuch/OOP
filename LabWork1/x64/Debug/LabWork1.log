@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\c++\LabWork1\LabWork1\MyForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  ZavdClass.cpp
+D:\c++\LabWork1\LabWork1\ZavdClass.cpp(26,37): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LabWork1.vcxproj -> D:\c++\LabWork1\x64\Debug\LabWork1.exe
